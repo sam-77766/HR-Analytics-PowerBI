@@ -12,10 +12,10 @@ The report answers key HR questions:
 - How do salary, training, job satisfaction, and performance ratings compare across departments and roles?
 
 ## 🖼️ Dashboard Preview
-![Overview](screenshotsoverview.png)
-![Demographics](screenshotsdemographics.png)
-![Attrition](screenshotsattrition.png)
-![Performance](screenshotsperformance.png)
+![Overview](screenshotsoverview.png.png)
+![Demographics](screenshotsdemographics.png.png)
+![Attrition](screenshotsattrition.png.png)
+![Performance](screenshotsperformance.png.png)
 
 ## 📑 Report Pages
 
